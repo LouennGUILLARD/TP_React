@@ -1,0 +1,2 @@
+Partie 4 :
+- Pour le moment la page n'affiche que un message "Cannot GET /accueil".
